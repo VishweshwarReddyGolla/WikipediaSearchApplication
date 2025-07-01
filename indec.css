@@ -1,0 +1,16 @@
+.main-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.wiki-logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.search-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
